@@ -2,17 +2,17 @@
 This is a web application for a computer hardware store built with C# and ASP.NET Core MVC. The application allows customers to browse and purchase computer hardware components such as CPUs, motherboards, RAM, and graphics cards. The application also has an administrator section for managing the inventory and orders.
 
 # Features
-Search for specific hardware components
-Add items to cart and checkout
-View order history
+- Search for specific hardware components
+- Add items to cart and checkout
+- View order history
 
 # Technologies Used
-C#
-ASP.NET Core MVC
-Entity Framework Core
-Bootstrap
-HTML/CSS
-JavaScript
+- C#
+- ASP.NET Core MVC
+- Entity Framework Core
+- Bootstrap
+- HTML/CSS
+- JavaScript
 
 # Installation
 Clone the repository to your local machine
