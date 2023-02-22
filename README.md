@@ -15,16 +15,16 @@ This is a web application for a computer hardware store built with C# and ASP.NE
 - JavaScript
 
 # Installation
-Clone the repository to your local machine
-bash
-Copy code
-git clone https://github.com/arashghk1/HardwareStoreWebApp
-Open the solution in Visual Studio
+- Clone the repository to your local machine
+- bash
+- Copy code
+- git clone https://github.com/arashghk1/HardwareStoreWebApp
+- Open the solution in Visual Studio
 
 # Usage
 - Modify the connection string in the appsettings.json file 
 - Open package manager console --> Change defualt project asp06store.infra.data.sql --> Add-Migration init --> update-database
-Run and Open the application in your web browser
+- Run and Open the application in your web browser
 
 # Contributing
 Contributions are welcome! Please open an issue or pull request for any changes.
