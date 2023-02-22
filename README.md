@@ -22,8 +22,8 @@ git clone https://github.com/arashghk1/HardwareStoreWebApp
 Open the solution in Visual Studio
 
 # Usage
-Modify the connection string in the appsettings.json file 
-Open package manager console --> Change defualt project asp06store.infra.data.sql --> Add-Migration init --> update-database
+- Modify the connection string in the appsettings.json file 
+- Open package manager console --> Change defualt project asp06store.infra.data.sql --> Add-Migration init --> update-database
 Run and Open the application in your web browser
 
 # Contributing
