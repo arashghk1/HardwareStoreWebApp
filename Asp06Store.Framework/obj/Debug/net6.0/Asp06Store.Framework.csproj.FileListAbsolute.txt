@@ -1,0 +1,36 @@
+E:\Source\ProAspNetCore06\01. Introductions\06- Workshop - Clean Architecture\Asp06Store\Asp06Store.Framework\bin\Debug\net6.0\Asp06Store.Framework.deps.json
+E:\Source\ProAspNetCore06\01. Introductions\06- Workshop - Clean Architecture\Asp06Store\Asp06Store.Framework\bin\Debug\net6.0\Asp06Store.Framework.dll
+E:\Source\ProAspNetCore06\01. Introductions\06- Workshop - Clean Architecture\Asp06Store\Asp06Store.Framework\bin\Debug\net6.0\ref\Asp06Store.Framework.dll
+E:\Source\ProAspNetCore06\01. Introductions\06- Workshop - Clean Architecture\Asp06Store\Asp06Store.Framework\bin\Debug\net6.0\Asp06Store.Framework.pdb
+E:\Source\ProAspNetCore06\01. Introductions\06- Workshop - Clean Architecture\Asp06Store\Asp06Store.Framework\obj\Debug\net6.0\Asp06Store.Framework.GlobalUsings.g.cs
+E:\Source\ProAspNetCore06\01. Introductions\06- Workshop - Clean Architecture\Asp06Store\Asp06Store.Framework\obj\Debug\net6.0\Asp06Store.Framework.csproj.AssemblyReference.cache
+E:\Source\ProAspNetCore06\01. Introductions\06- Workshop - Clean Architecture\Asp06Store\Asp06Store.Framework\obj\Debug\net6.0\Asp06Store.Framework.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source\ProAspNetCore06\01. Introductions\06- Workshop - Clean Architecture\Asp06Store\Asp06Store.Framework\obj\Debug\net6.0\Asp06Store.Framework.AssemblyInfoInputs.cache
+E:\Source\ProAspNetCore06\01. Introductions\06- Workshop - Clean Architecture\Asp06Store\Asp06Store.Framework\obj\Debug\net6.0\Asp06Store.Framework.AssemblyInfo.cs
+E:\Source\ProAspNetCore06\01. Introductions\06- Workshop - Clean Architecture\Asp06Store\Asp06Store.Framework\obj\Debug\net6.0\Asp06Store.Framework.csproj.CoreCompileInputs.cache
+E:\Source\ProAspNetCore06\01. Introductions\06- Workshop - Clean Architecture\Asp06Store\Asp06Store.Framework\obj\Debug\net6.0\Asp06Store.Framework.dll
+E:\Source\ProAspNetCore06\01. Introductions\06- Workshop - Clean Architecture\Asp06Store\Asp06Store.Framework\obj\Debug\net6.0\ref\Asp06Store.Framework.dll
+E:\Source\ProAspNetCore06\01. Introductions\06- Workshop - Clean Architecture\Asp06Store\Asp06Store.Framework\obj\Debug\net6.0\Asp06Store.Framework.pdb
+C:\Users\SaeeD\OneDrive\Desktop\New folder\06- Workshop - Clean Architecture\Asp06Store\Asp06Store.Framework\bin\Debug\net6.0\Asp06Store.Framework.deps.json
+C:\Users\SaeeD\OneDrive\Desktop\New folder\06- Workshop - Clean Architecture\Asp06Store\Asp06Store.Framework\bin\Debug\net6.0\Asp06Store.Framework.dll
+C:\Users\SaeeD\OneDrive\Desktop\New folder\06- Workshop - Clean Architecture\Asp06Store\Asp06Store.Framework\bin\Debug\net6.0\ref\Asp06Store.Framework.dll
+C:\Users\SaeeD\OneDrive\Desktop\New folder\06- Workshop - Clean Architecture\Asp06Store\Asp06Store.Framework\bin\Debug\net6.0\Asp06Store.Framework.pdb
+C:\Users\SaeeD\OneDrive\Desktop\New folder\06- Workshop - Clean Architecture\Asp06Store\Asp06Store.Framework\obj\Debug\net6.0\Asp06Store.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SaeeD\OneDrive\Desktop\New folder\06- Workshop - Clean Architecture\Asp06Store\Asp06Store.Framework\obj\Debug\net6.0\Asp06Store.Framework.AssemblyInfoInputs.cache
+C:\Users\SaeeD\OneDrive\Desktop\New folder\06- Workshop - Clean Architecture\Asp06Store\Asp06Store.Framework\obj\Debug\net6.0\Asp06Store.Framework.AssemblyInfo.cs
+C:\Users\SaeeD\OneDrive\Desktop\New folder\06- Workshop - Clean Architecture\Asp06Store\Asp06Store.Framework\obj\Debug\net6.0\Asp06Store.Framework.csproj.CoreCompileInputs.cache
+C:\Users\SaeeD\OneDrive\Desktop\New folder\06- Workshop - Clean Architecture\Asp06Store\Asp06Store.Framework\obj\Debug\net6.0\Asp06Store.Framework.dll
+C:\Users\SaeeD\OneDrive\Desktop\New folder\06- Workshop - Clean Architecture\Asp06Store\Asp06Store.Framework\obj\Debug\net6.0\ref\Asp06Store.Framework.dll
+C:\Users\SaeeD\OneDrive\Desktop\New folder\06- Workshop - Clean Architecture\Asp06Store\Asp06Store.Framework\obj\Debug\net6.0\Asp06Store.Framework.pdb
+F:\Programming\Programming Outside School\GitHub Projects\New folder\فروشگاه موبایل آنلاین\Asp06Store\Asp06Store.Framework\bin\Debug\net6.0\Asp06Store.Framework.deps.json
+F:\Programming\Programming Outside School\GitHub Projects\New folder\فروشگاه موبایل آنلاین\Asp06Store\Asp06Store.Framework\bin\Debug\net6.0\Asp06Store.Framework.dll
+F:\Programming\Programming Outside School\GitHub Projects\New folder\فروشگاه موبایل آنلاین\Asp06Store\Asp06Store.Framework\bin\Debug\net6.0\Asp06Store.Framework.pdb
+F:\Programming\Programming Outside School\GitHub Projects\New folder\فروشگاه موبایل آنلاین\Asp06Store\Asp06Store.Framework\obj\Debug\net6.0\Asp06Store.Framework.csproj.AssemblyReference.cache
+F:\Programming\Programming Outside School\GitHub Projects\New folder\فروشگاه موبایل آنلاین\Asp06Store\Asp06Store.Framework\obj\Debug\net6.0\Asp06Store.Framework.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\Programming Outside School\GitHub Projects\New folder\فروشگاه موبایل آنلاین\Asp06Store\Asp06Store.Framework\obj\Debug\net6.0\Asp06Store.Framework.AssemblyInfoInputs.cache
+F:\Programming\Programming Outside School\GitHub Projects\New folder\فروشگاه موبایل آنلاین\Asp06Store\Asp06Store.Framework\obj\Debug\net6.0\Asp06Store.Framework.AssemblyInfo.cs
+F:\Programming\Programming Outside School\GitHub Projects\New folder\فروشگاه موبایل آنلاین\Asp06Store\Asp06Store.Framework\obj\Debug\net6.0\Asp06Store.Framework.csproj.CoreCompileInputs.cache
+F:\Programming\Programming Outside School\GitHub Projects\New folder\فروشگاه موبایل آنلاین\Asp06Store\Asp06Store.Framework\obj\Debug\net6.0\Asp06Store.Framework.dll
+F:\Programming\Programming Outside School\GitHub Projects\New folder\فروشگاه موبایل آنلاین\Asp06Store\Asp06Store.Framework\obj\Debug\net6.0\refint\Asp06Store.Framework.dll
+F:\Programming\Programming Outside School\GitHub Projects\New folder\فروشگاه موبایل آنلاین\Asp06Store\Asp06Store.Framework\obj\Debug\net6.0\Asp06Store.Framework.pdb
+F:\Programming\Programming Outside School\GitHub Projects\New folder\فروشگاه موبایل آنلاین\Asp06Store\Asp06Store.Framework\obj\Debug\net6.0\ref\Asp06Store.Framework.dll
