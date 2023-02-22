@@ -20,13 +20,11 @@ bash
 Copy code
 git clone https://github.com/arashghk1/HardwareStoreWebApp
 Open the solution in Visual Studio
-Run the application
 
 # Usage
-Open the application in your web browser
-Browse hardware components using the navigation menu
-Add items to your cart by clicking the "Add to Cart" button
-Checkout by clicking the "Checkout" button in the cart
+Modify the connection string in the appsettings.json file 
+Open package manager console --> Change defualt project asp06store.infra.data.sql --> Add-Migration init --> update-database
+Run and Open the application in your web browser
 
 # Contributing
 Contributions are welcome! Please open an issue or pull request for any changes.
